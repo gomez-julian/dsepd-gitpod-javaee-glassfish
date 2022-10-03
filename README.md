@@ -68,7 +68,7 @@ Este proyecto está configurado en base al tutorial de [AWS](https://docs.aws.am
 Tener tu proyecto de esta manera tiene sus ventajas y desventajas:
 
 - Gitpod es ejecutado desde el navegador y puedes realizar todas las actividades sin problemas desde ahí.
-- No tiene Hot Reload, por lo que cada que requieras reflejar un cambio debes ejecutar estos tres comandos:
+- No tiene Hot Reload, por lo que cada que requieras reflejar un cambio debes ejecutar estos tres comandos **(Aunque no tarda más de 20 segundos)**:
 
 ```bash
   docker stop javapp
