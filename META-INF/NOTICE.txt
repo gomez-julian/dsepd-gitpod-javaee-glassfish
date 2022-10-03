@@ -1,2 +1,6 @@
 AWS Elastic Beanstalk Sample Application
 Copyright 2010 Amazon.com, Inc. or its affiliates. All Rights Reserved. 
+
+Modified by Julián Gómez Suárez
+October 2022
+https://github.com/gomez-julian/dsepd-gitpod-javaee-glassfish
